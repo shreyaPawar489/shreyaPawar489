@@ -48,8 +48,8 @@
 <h3>Reach Out!</h3>
 <p>
   
-**🌐 [Website](https://shreyapawar.org/)**
-**💼 [LinkedIn](https://www.linkedin.com/in/shreyappawar/)**
-**📧 [Email](shreya_pawar@berkeley.edu)**
+**🌐 [Website](https://shreyapawar.org/)**<br>
+**💼 [LinkedIn](https://www.linkedin.com/in/shreyappawar/)**<br>
+**📧 shreya_pawar@berkeley.edu**
 
 </p>
