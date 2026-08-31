@@ -1,6 +1,6 @@
 ## Hey, nice to meet you!
 
-<p>I'm Shreya Pawar, a freshman at UC Berkeley's M.E.T. program as an EECS + Business major. I'm passionate about the intersection of computing and healthcare, specifically AI integration. I love exploring new tech in the realm of ethical AI for healthcare, so reach out!</p>
+<p>I'm Shreya Pawar, a freshman at UC Berkeley's M.E.T. program as an EECS + Business major. I'm passionate about the intersection of computing and healthcare, specifically AI integration. I love exploring new tech in the realm of ethical AI for healthcare and beyond, so reach out!</p>
 
 <h3>Things I code with</h3>
 <p>
